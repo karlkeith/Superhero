@@ -1,0 +1,28 @@
+body {
+	background-color: lightgoldenrodyellow;
+}
+
+h1 {
+	font-size: 30px;
+	color: #2ECC71;
+}
+
+h2	{
+	font-size: 20px;
+	color: #2E86C1;
+}
+
+.big {
+	font-size: 60px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase {
+	color: firebrick;
+}
+
+h1 span {
+	color: khaki;
+}
